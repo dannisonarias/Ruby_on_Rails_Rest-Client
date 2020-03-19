@@ -5,6 +5,8 @@ What is REST?
 >Representational State Transfer (REST) is an architectural style for web-based ?communication that permits clients to talk to servers in a unique fashion. In particular, REST represents resources within a given server as uniform resource identifiers (URIs), simplifying the implementation of REST architectures on the Hypertext Transport Protocol (HTTP).
 
 ### The Use of rest-client in combination with nokogiri to get and parse data from raw url
+In this application the user gets to select the search engine "Google" or "Bing"
+Search for a string and then receive an array with the links corresponding to the query.
 ###### Instructions to get up and running
 1. clone repository
 2. Make sure that you’ve got nokogiri installed,

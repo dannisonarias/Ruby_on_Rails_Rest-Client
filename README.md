@@ -4,9 +4,8 @@ What is REST?
 
 >Representational State Transfer (REST) is an architectural style for web-based ?communication that permits clients to talk to servers in a unique fashion. In particular, REST represents resources within a given server as uniform resource identifiers (URIs), simplifying the implementation of REST architectures on the Hypertext Transport Protocol (HTTP).
 
-# The Use of rest-client in combination with nokogiri to get and parse data from raw url
-
-# Instructions to get up and running
+### The Use of rest-client in combination with nokogiri to get and parse data from raw url
+###### Instructions to get up and running
 1. clone repository
 2. Make sure that you’ve got nokogiri installed,
 >gem install nokogiri
@@ -20,7 +19,7 @@ Documentation of the Rest-client Github repo [HERE](https://github.com/rest-clie
 
 Documentation of the Nokogiri parser [HERE](https://www.rubydoc.info/github/sparklemotion/nokogiri/Nokogiri/HTML/Document).
 
-## Built With
+### Built With
 
 - Ruby
 - VSCode
